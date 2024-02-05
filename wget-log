@@ -1,0 +1,11 @@
+--2023-11-12 11:02:59--  https://cdn.discordapp.com/attachments/1172937399819575336/1173211983005356172/Win1.0.iso?ex=656321cd
+Resolving cdn.discordapp.com (cdn.discordapp.com)... 162.159.135.233, 162.159.133.233, 162.159.130.233, ...
+Connecting to cdn.discordapp.com (cdn.discordapp.com)|162.159.135.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3921920 (3.7M) [application/x-iso9660-image]
+Saving to: ‘Win1.0.iso?ex=656321cd’
+
+Win1.0.iso?ex=656321cd    0%[                                ]       0  --.-KB/s               Win1.0.iso?ex=656321cd    2%[                                ]  97.74K   449KB/s               Win1.0.iso?ex=656321cd   19%[=====>                          ] 765.61K  1.79MB/s               Win1.0.iso?ex=656321cd  100%[===============================>]   3.74M  6.51MB/s    in 0.6s    
+
+2023-11-12 11:03:00 (6.51 MB/s) - ‘Win1.0.iso?ex=656321cd’ saved [3921920/3921920]
+
